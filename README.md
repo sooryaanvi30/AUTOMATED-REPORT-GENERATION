@@ -46,3 +46,4 @@ Applications
 4. Customized Business Reports:   Automating invoicing, performance dashboards, or operational summaries.
 
 output
+![Image](https://github.com/user-attachments/assets/361427dd-3ba3-49e3-a9ce-ace1411587ab)
